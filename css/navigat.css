@@ -1,0 +1,58 @@
+h1{
+  font-size: 50px;
+  font-style: Montserrat;
+}
+body{
+  background-image: url(https://images.all-free-download.com/images/graphiclarge/hd_picture_of_the_beautiful_natural_scenery_03_166249.jpg);
+  color: #222;
+  font-family: Arial, Helvetica,sans-serif;
+  background-size: 1600px 800px;
+
+}
+/*start header*/
+header{
+background-color: #ccc;
+}
+header nav ul{
+  max-width: 1200px;
+  margin: 0 auto;
+  overflow: auto;
+}
+header nav li{
+  list-style: none;
+}
+header nav ul li a{
+  color: #ccc:;
+  padding: 20px;
+  float:left;
+  font-size:20px;
+  text-decoration: none;
+}
+footer{
+  font-size: 12px;
+  text-align: center;
+  padding: 50px 0;
+  color: #ccc;
+  background-color: 0,0,0,0.5;
+}
+header nav ul li a:hover{
+color:cyan;
+}
+header nav ul li a:active {
+  color: yellow;
+}
+header nav ul{
+  padding:0;
+  margin:0;
+    }
+    .div{
+      font-family: '',san-serif;
+      min-height: 200px;
+      text-align: center;
+      color: black;
+      padding-top: 10px;
+      background-color: skyblue;
+
+
+
+    }
