@@ -9,6 +9,9 @@ body{
   background-size: 1600px 800px;
 
 }
+.main-container{
+  background-color: blue;
+}
 /*start header*/
 header{
 background-color: #ccc;
